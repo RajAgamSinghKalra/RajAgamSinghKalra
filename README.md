@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello! my name is Raj Agam Singh Kalra
+#### cse student at bpit
+![cse student at bpit](https://i.imgur.com/0wCA1fQ.gif)
 
-<!--
-**RajAgamSinghKalra/RajAgamSinghKalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.tech cse student at BPIT
+I am currently focusing on Web Dev and DSA
+my passion is in Game Development!
 
-Here are some ideas to get you started:
+hoping to meet wonderful people and work on many projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / Scikit / REACT / JS / HTML / CSS / unity / video Editing
+
+- 🔭 I’m currently working on a markdown Live preview site! 
+- 🌱 I’m currently learning nodejs 
+- 📫 How to reach me: rajkagithub@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raj-agam-singh-kalra-34629a2ab//)  
+
