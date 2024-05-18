@@ -17,5 +17,5 @@ Skills: Python / Scikit / REACT / JS / HTML / CSS / unity / video Editing
 - 📫 How to reach me: rajkagithub@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raj-agam-singh-kalra-34629a2ab//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raj-agam-singh-kalra-34629a2ab//)  
 
