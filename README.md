@@ -1,6 +1,5 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Agam Singh Kalra
 ============================================================================================================================================
-#### cse student at bpit
 
 ![Yellow   Gray Modern Profile Linkedin Banner](https://github.com/RajAgamSinghKalra/RajAgamSinghKalra/assets/170209261/e7969570-201e-4430-960f-f697f242322e)
 
